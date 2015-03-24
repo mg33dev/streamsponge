@@ -1,0 +1,2 @@
+Version 1.1 BETA
+StreamSponge first BETA
